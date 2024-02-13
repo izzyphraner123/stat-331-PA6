@@ -1,6 +1,10 @@
 ---
 title: "Practice Activity 6"
+<<<<<<< HEAD
 author: Alex Sullivan, Megan Kerner, Isabelle Phraner
+=======
+author: Alex, Megan, Isabelle
+>>>>>>> 4a8ebfb0a7b5073381cffc6dc791a48c0a617768
 format: html
 editor: visual
 self-contained: true
