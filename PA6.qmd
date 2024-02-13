@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Alex Sullivan, Megan Kerner, Isabelle Phraner
 format: html
 editor: visual
 self-contained: true
